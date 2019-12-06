@@ -144,7 +144,7 @@ export default {
       // 父级分类的数据列表
       parentCateList: [],
       // 选中的父级分类的id值
-      selectedKeys: [],
+      selectedKeys: [1, 3, 9],
       // 修改商品分类的数据
       editCateForm: {},
       // 是否显示修改弹框
